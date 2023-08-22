@@ -1,2 +1,3 @@
 First repo sample text
 My first cdt branch
+perform fetch and merge that's same as git pull
